@@ -2,7 +2,16 @@
 
 Makes requests to a given URL until it gives a response. This is useful for checking other services are up before starting end to end tests.
 
-# Usage
+## Installation
+
+Install with yarn or npm:
+
+`yarn add @chrisb-dev/healthcheck --dev`
+
+`npm install @chrisb-dev/healthcheck --save-dev`
+
+
+## Usage
 
 The basic usage is as follows:
 
